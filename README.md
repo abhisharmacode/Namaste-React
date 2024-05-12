@@ -1,1 +1,1 @@
-# This is the practice code form Namaste React
+# This is the practice code form Namaste React 🚀
